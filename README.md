@@ -1,1 +1,1 @@
-# week 6 porgramming assignment
+# week 6 programming assignment
